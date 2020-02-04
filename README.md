@@ -4,6 +4,7 @@ FingerPrint in Flutter
 
 ## Special Thanks
 To [undraw.co](https://undraw.co/search)
+To [Pexels and Oliver Rahman](https://www.pexels.com/@oliur-rahman)
 
 ## Getting Started
 
